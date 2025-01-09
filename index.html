@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     <!--website logo-->
+    <link rel="icon" href="goku.png">
+    <link rel="stylesheet" href="styles.css"> 
+    <title>Intro to HTML</title>
+
+
+
+</head>
+
+<body>
+    <!-- ctrl / to make comments -->
+
+    <!-- headings -->
+    <h1>Boom </h1>
+    <h2>boom</h2>
+    <h3>boom</h3>
+    <h4>boom</h4>
+
+<!-- paragraphs -->
+    <p>We bring the boom
+        That's what we do
+        We bring the boom
+        <b>We bring the boom to you</b>
+        We bring the boom
+        <i>We bring the boom to everyone</i>
+        We bring the boom
+        <p>Your favorite father and son</p>
+        Every afternoon on your FYP
+        We'll be bringin' the boom around a quarter past three
+        We bring the boom so loud, the whole Earth shakes
+        With double chunk chocolate cookies
+        And chicken bakes
+        Biceps and triceps bring the boom that everybody deserves
+        And we call him "Big Justice" 'cause that's what he serves
+        We bring the happiness and laughter when we enter the room
+        And we changin' up the world with the boom or doom
+        We bring the boom
+        That's what we do
+        We bring the boom
+        We bring the boom to you
+        We bring the boom
+        We bring the boom to everyone
+        We bring the boom
+        Your favorite father and son
+        When you subscribe here to our channel, know you'll never be alone
+        We bring the boom to you each day, right here from Boca Raton
+        Stick with the Costco guys and you'll never get beat
+        We'll throw some paper towels and get meat, all meat
+        We're pushin' weight in the gym and we're crushin' the ball
+        Big Justice brings the boom and puts it over the wall
+        When your family comes first, it can never be a doom
+        Ashley and mother of Big Justice even bring you the boom
+        We bring the boom
+        That's what we do
+        We bring the boom
+        We bring the boom to you
+        We bring the boom
+        We bring the boom to everyone
+        We bring the boom
+        Our favorite father and son
+        We bring the boom
+        That's what we do
+        We bring the boom
+        We bring the boom to you
+        We bring the boom
+        We bring the boom to everyone
+        We bring the boom
+        Your favorite father and son
+        We bring the boom</p>
+
+  <ul>
+   <li>this is a bullet point</li>
+   <li>this is a bullet point</li>
+   <li>this is a bullet point</li>
+  </ul>
+  
+<!-- Numeric ordered list -->
+  <ol>
+    <li>this is a numbered list</li>
+    <li>this is a second numbered list</li>
+    <li>this is a third numbered list</li>
+  </ol>
+ 
+  <!-- Link, the target one keeps the current site up and adds another -->
+  <p>This is a link <a href="https://en.wikipedia.org/wiki/A.J._%26_Big_Justice">regular link</a>
+<a href="https://en.wikipedia.org/wiki/A.J._%26_Big_Justice" target="_blank"> target link</a></p>
+
+
+<!-- images -->
+<!-- if image wont load, it is replaced with the alt text -->
+<img src="" alt="Ishowspeed">
+<img src="Images/speed.png" alt="Ishowspeed">
+
+<blockquote><b>LEBRON</b></blockquote>
+
+<h2>Article title</h2>
+<p>Preview article</p>
+<p><a href="">Read more</a></p>
+
+
+<h2>Article title</h2>
+<p>Preview article</p>
+<p><a href="">Read more</a></p>
+
+
+<h2>Article title</h2>
+<p>Preview article</p>
+<p><a href="">Read more</a></p>
+<div></div>
+
+
+<!-- this is for writing texts and stuff -->
+<form action="">
+    <label for="usernamefield"></label>
+    <input id="usernamefield" type="'text">
+    
+    <br>
+    <label for="passwordfield"></label>
+    <input id="passwordfield" type="'text"
+    type="password" type="password">
+
+    <br>
+    <label for="agefield"></label>
+    <input id="agefield" type="'text"
+    type="number">
+
+    <br>
+    <label for="Birthdayfield"></label>
+    <input id="birthday" type="'date"
+    type="birthday">
+
+    <br>
+    <h3>What is your hair colour?</h3>
+    <input id="hairbrownfield"
+    name="hair" type="radio">
+    <label for="hairbrownfield">Brown</label>
+
+    <br>
+    <button>Sumbit</button>
+</form>
+</body>
+</html>
